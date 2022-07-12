@@ -28,10 +28,10 @@
         "cpu",
         "memory",
         "battery",
-        "temperature",
+        //"temperature",
 
         // connecting
-        "network",
+        //"network",
         //"bluetooth",
 
         // media
